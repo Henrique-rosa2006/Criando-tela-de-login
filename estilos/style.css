@@ -45,3 +45,7 @@ main {
     background-size: cover;
 }
 
+
+#formulario>h1 {
+    text-align: center;
+}
